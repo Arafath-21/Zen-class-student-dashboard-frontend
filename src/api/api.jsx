@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL: "http://localhost:7856",
+    baseURL: "https://zen-class-student-dashboard-backend-4lwq.onrender.com",
 });
